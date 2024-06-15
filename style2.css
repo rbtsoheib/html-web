@@ -1,0 +1,9 @@
+.order-form {
+    max-width: 700px;
+    margin: 5px auto;
+    background-color: rgb(228, 152, 39);
+    padding: 10px;
+    border-radius: 2px;
+    box-shadow: 1px 2px 5px color(display-p3 red green blue);
+
+}

@@ -1,0 +1,35 @@
+.tahar {
+    color: blanchedalmond;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px;
+    text-align: center;
+}
+
+.youcef {
+    color: rgb(216, 141, 141);
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+
+}
+
+body {
+    background-color: brown;
+}
+
+.hello {
+    border: 4px dotted rgb(155, 141, 141);
+    color: blanchedalmond;
+}
+
+ul {
+    list-style-type: none;
+}
